@@ -1,0 +1,20 @@
+@theme {
+  --color-brand-black: #000000;
+  --color-brand-white: #FFFFFF;
+  --color-brand-charcoal-900: #111111;
+  --color-brand-charcoal-800: #1A1A1A;
+  --color-brand-charcoal-700: #2A2A2A;
+  --color-brand-blue: #3B82F6;
+  --color-brand-blue-soft: #60A5FA;
+  --color-brand-success: #10B981;
+  --color-brand-warning: #F59E0B;
+  --color-brand-critical: #EF4444;
+  --color-brand-gray-400: #9CA3AF;
+  --color-brand-gray-100: #F3F4F6;
+
+  --font-sans: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  
+  --radius-brand: 8px;
+  
+  --letter-spacing-tightest: -0.02em;
+}
